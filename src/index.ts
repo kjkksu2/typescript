@@ -1,1 +1,1 @@
-const sum = (a: number) => a;
+document.getElementById("");
