@@ -4,14 +4,12 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "build": "tsc",
-    "start": "node build/index.js"
+    "build": "tsc"
   },
   "author": "",
   "keywords": [],
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.6.4"
-  },
-  "type": "module"
+  }
 }

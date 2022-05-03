@@ -1,5 +1,4 @@
-import { init, exit } from "myPackage";
+import { init, exit } from "./myPackage";
 
-init({ name: "markus" });
-
-console.log(exit(1));
+init({ debug: true, url: "https" });
+exit(1);
